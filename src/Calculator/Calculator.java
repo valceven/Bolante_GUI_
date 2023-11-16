@@ -42,7 +42,7 @@ public class Calculator extends JFrame{
         app.setSize(500,500);
         app.setDefaultCloseOperation(EXIT_ON_CLOSE);
         app.setVisible(true);
-        app.setTitle("Leap Year Checker");
+        app.setTitle("Simple Calculator");
 
     }
 }

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d490258-0bea-4d7f-831b-bae27fa27621" name="Changes" comment="2nd Commit">
+    <list default="true" id="4d490258-0bea-4d7f-831b-bae27fa27621" name="Changes" comment="3rd commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +20,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -36,10 +42,25 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/L12Y16W40/IdeaProjects/GUIYEY",
+    "last_opened_file_path": "C:/Users/L12Y16W40/IdeaProjects/Bolante_GUI_/src/Calculator",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Calculator" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator.Calculator" />
+      <module name="Bolante_GUI_" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,13 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1700124840553</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3rd commit">
+      <created>1700126904311</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700126904311</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit First problem" />
     <MESSAGE value="2nd Commit" />
     <MESSAGE value="2nd Commits" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd Commits" />
+    <MESSAGE value="3rd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="3rd commit" />
   </component>
 </project>
