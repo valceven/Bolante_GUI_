@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d490258-0bea-4d7f-831b-bae27fa27621" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="4d490258-0bea-4d7f-831b-bae27fa27621" name="Changes" comment="Initial Commit First problem">
       <change afterPath="$PROJECT_DIR$/src/Calculator/Calculator.form" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Calculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeapYear/leapYear.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeapYear/leapYear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +51,18 @@
       <option name="presentableId" value="Default" />
       <updated>1700120005987</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit First problem">
+      <created>1700122539824</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700122539824</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit First problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit First problem" />
   </component>
 </project>
