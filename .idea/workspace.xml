@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d490258-0bea-4d7f-831b-bae27fa27621" name="Changes" comment="Initial Commit First problem">
-      <change afterPath="$PROJECT_DIR$/src/Calculator/Calculator.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculator/Calculator.java" afterDir="false" />
+    <list default="true" id="4d490258-0bea-4d7f-831b-bae27fa27621" name="Changes" comment="2nd Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,11 +56,20 @@
       <option name="project" value="LOCAL" />
       <updated>1700122539824</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2nd Commit">
+      <created>1700124840553</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700124840553</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit First problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit First problem" />
+    <MESSAGE value="2nd Commit" />
+    <MESSAGE value="2nd Commits" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd Commits" />
   </component>
 </project>
